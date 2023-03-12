@@ -16,7 +16,6 @@
   </div>
   <hr>
   <div class="footer-copyright text-center">© 2022 Copyright: Medical Products</div>
-  <div class="footer-copyright text-center"><a href="https://github.com/DenisaDemaku/Zhvillim-dhe-Dizajnim-i-Web" style="color:white; text-decoration:none;">github.com/DenisaDemaku/Zhvillim-dhe-Dizajnim-i-Web</a></div>
   <br>
 </footer>
 </div>

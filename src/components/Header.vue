@@ -19,7 +19,7 @@
                             <ul class="navbar-nav mr-auto"></ul>
                             <ul class="navbar-nav ml-auto">
                                 <template v-if="user.loggedIn">
-                                    <template v-if="user.data.email == 'denisademaku@gmail.com'">
+                                    <template v-if="user.data.email == 'gentirechica@gmail.com'">
                                         <router-link class="nav-link" to="/users-list" >
                                             <a class="nav-link" id="alinkusers">Users</a>
                                         </router-link>
